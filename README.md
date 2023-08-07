@@ -1,3 +1,3 @@
 #
 
-[Netflix-Clone-Link](aniket-kumar-netfilx-clone.netlify.app)
+[Netflix-Clone-Link](https://aniket-kumar-netfilx-clone.netlify.app/)
